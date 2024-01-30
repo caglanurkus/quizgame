@@ -25,7 +25,4 @@ The quiz includes both basic and hard questions, each with different point value
 
 Caglanur Kus
 
-## Usage
 
-```bash
-python teyvat_quiz.py
